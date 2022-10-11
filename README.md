@@ -1,6 +1,7 @@
 # Hello!
 
 I'm Saeed Ahmad.
+- 👨‍🎓 Pursuing Master's Degree in Artificial Intelligence from [Korea National University of Transportaion](https://www.ut.ac.kr/english.do)
 - 👨‍🎓 Bachelor Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Concentrations in Machine Learning and Network Security
