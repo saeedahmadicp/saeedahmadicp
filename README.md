@@ -42,4 +42,4 @@ I'm Saeed Ahmad.
 
 📈 Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#DDDDDD&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
