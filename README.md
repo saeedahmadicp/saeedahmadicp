@@ -13,8 +13,8 @@ I'm Saeed Ahmad.
 
 ---
 
-🛠️ Languages and Tools
-<div>
+<p align="center"> <b>🛠️ Languages and Tools </b></p>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -39,7 +39,8 @@ I'm Saeed Ahmad.
 </div>
 
 ---
+<div align="center">
 
-📈 Stats 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
+</div>
