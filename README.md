@@ -42,8 +42,4 @@ I'm Saeed Ahmad.
 
 📈 Stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeedahmadicp&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saeedahmadicp&theme=dracula&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#314241&hide_border=true)](https://git.io/streak-stats)
