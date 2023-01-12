@@ -1,6 +1,7 @@
 # Hello!
 
 I'm Saeed Ahmad.
+- 💼 Working as a Research Assistant at [Applied Machine Intelligence (AMI) Lab](https://sites.google.com/site/gistaimi) at [KNUT](https://www.ut.ac.kr/english.do)  
 - 👨‍🎓 Pursuing Master's Degree in Artificial Intelligence from [Korea National University of Transportaion](https://www.ut.ac.kr/english.do)
 - 👨‍🎓 Bachelor Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
