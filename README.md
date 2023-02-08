@@ -7,7 +7,6 @@ I'm Saeed Ahmad.
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Concentrations in Machine Learning and Network Security
 
-
 <p align="center"> 
 
 <a href="https://www.linkedin.com/in/saeedicp/">
@@ -22,6 +21,7 @@ I'm Saeed Ahmad.
 </a>
 </p>
 
+---
 
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
@@ -49,8 +49,15 @@ I'm Saeed Ahmad.
 </div>
 
 ---
-<div align="center">
+ <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
+ <div align="center">
+ <img src="https://profile-counter.glitch.me/{saeedahmadicp}/count.svg" alt="saeedahmadicp" />
+</div>
 
+---
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
 </div>
+
+
