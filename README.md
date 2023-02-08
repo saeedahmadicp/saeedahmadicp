@@ -10,14 +10,14 @@ I'm Saeed Ahmad.
 <p align="center"> 
 
 <a href="https://www.linkedin.com/in/saeedicp/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://twitter.com/saeedkhan_ai">
-    <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/twitter-grey?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 </a>
 <a href="https://www.facebook.com/saeedicp">
-    <img src="https://img.shields.io/badge/facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-grey?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
 </a>
 </p>
 
