@@ -7,12 +7,21 @@ I'm Saeed Ahmad.
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Concentrations in Machine Learning and Network Security
 
-[![Mail Badge](https://img.shields.io/badge/-saeedahmad.icp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saeedahmad.icp@gmail.com)](mailto:saeedahmad.icp@gmail.com)
+
+<p align="center"> 
+
 <a href="https://www.linkedin.com/in/saeedicp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="https://twitter.com/saeedkhan_ai">
+    <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</a>
+<a href="https://www.facebook.com/saeedicp">
+    <img src="https://img.shields.io/badge/facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+</p>
 
----
 
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
