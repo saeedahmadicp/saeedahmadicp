@@ -49,7 +49,12 @@ I'm Saeed Ahmad.
 </div>
 
 ---
+<div align="center">
+    
 [![trophy](https://github-profile-trophy.vercel.app/?username=saeedahmadicp&column=7&margin-w=5)](https://github.com/saeedahmadicp/github-profile-trophy)
+</div>
+
+
 ---
  <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
  <div align="center">
