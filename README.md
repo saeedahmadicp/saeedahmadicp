@@ -52,7 +52,7 @@ I'm Saeed Ahmad.
 <div align="center">
 <p align="center"> <b>🏆 GitHub Profile Trophies </b></p>   
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=saeedahmadicp&column=7&margin-w=5)](https://github.com/saeedahmadicp/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saeedahmadicp&column=7&margin-w=5)](https://github.com/saeedahmadicp)
 </div>
 
 
