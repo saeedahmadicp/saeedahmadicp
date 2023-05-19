@@ -15,10 +15,11 @@ I'm Saeed Ahmad.
 <a href="https://twitter.com/saeedkhan_ai">
     <img src="https://img.shields.io/badge/twitter-grey?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+    <!--
 </a>
 <a href="https://www.facebook.com/saeedicp">
     <img src="https://img.shields.io/badge/facebook-grey?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
+</a> -->
 </p>
 
 ---
