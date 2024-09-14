@@ -50,6 +50,12 @@ I'm Saeed Ahmad.
 </div>
 
 ---
+<div align="center">
+<h3 align="center">Support:</h3>
+<p><a href="https://buymeacoffee.com/saeed.ai"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/saeed.ai" /></a></p>
+</div>
+
+---
 <!--
 <div align="center">
 <p align="center"> <b>🏆 GitHub Profile Trophies </b></p>   
