@@ -1,8 +1,10 @@
 # Hello!
 
 I'm Saeed Ahmad.
-- 💼 Working as a Research Associate at [Applied Machine Intelligence (AMI) Lab](https://sites.google.com/site/gistaimi) at [KNUT](https://www.ut.ac.kr/english.do)  
+- 💼 Working as an AI Research Engineer at [IKLab Inc.](https://iklab.ai/) in Seoul, South Korea. 
+- 💼 Worked as a Research Assistant & Associate at [Applied Machine Intelligence (AMI) Lab](https://sites.google.com/site/gistaimi) at [KNUT](https://www.ut.ac.kr/english.do)  
 - 👨‍🎓 Completed Master's Degree in Artificial Intelligence from [Korea National University of Transportaion](https://www.ut.ac.kr/english.do)
+- 💼 Worked as a Machine Learning Engineer at [DiveDeepAI](https://divedeep.ai/).
 - 👨‍🎓 Bachelor Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Concentrations in Machine Learning and Computer Vision
