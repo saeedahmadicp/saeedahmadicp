@@ -1,11 +1,11 @@
 # Hello!
 
 I'm Saeed Ahmad.
-- 💼 Working as an AI Research Engineer at [IKLab Inc.](https://iklab.ai/) in Seoul, South Korea. 
+- 💼 Working as a Senior AI Research Engineer at [IKLab Inc.](https://iklab.ai/) in Seoul, South Korea. 
 - 💼 Worked as a Research Assistant & Associate at [Applied Machine Intelligence (AMI) Lab](https://sites.google.com/site/gistaimi) at [KNUT](https://www.ut.ac.kr/english.do)  
-- 👨‍🎓 Completed Master's Degree in Artificial Intelligence from [Korea National University of Transportaion](https://www.ut.ac.kr/english.do)
+- 👨‍🎓 Completed Master's Degree in Artificial Intelligence from [Korea National University of Transportation](https://www.ut.ac.kr/english.do)
 - 💼 Worked as a Machine Learning Engineer at [DiveDeepAI](https://divedeep.ai/).
-- 👨‍🎓 Bachelor Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
+- 👨‍🎓 Bachelor's Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
 - 📚 Concentrations in Machine Learning and Computer Vision
 
@@ -14,14 +14,6 @@ I'm Saeed Ahmad.
 <a href="https://www.linkedin.com/in/saeedicp/">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://twitter.com/saeedkhan_ai">
-    <img src="https://img.shields.io/badge/twitter-grey?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-    <!--
-</a>
-<a href="https://www.facebook.com/saeedicp">
-    <img src="https://img.shields.io/badge/facebook-grey?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-</a> -->
 </p>
 
 ---
@@ -67,7 +59,7 @@ I'm Saeed Ahmad.
 [![trophy](https://github-profile-trophy.vercel.app/?username=saeedahmadicp&column=7&margin-w=5)](https://github.com/saeedahmadicp)
 </div>
 --- 
--->
+<!--
 
  <p align="center"> <b> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/eye.svg" title="watching" alt="watching" width="20" height="15"> Visitor Count </b> </p>
  <div align="center">
@@ -75,9 +67,9 @@ I'm Saeed Ahmad.
 </div>
 
 ---
-<div align="center">
+ <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saeedahmadicp&theme=neon-palenight&background=#252525&hide_border=true)](https://git.io/streak-stats)
-</div>
+</div> -->
 
 
