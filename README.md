@@ -6,15 +6,7 @@ I'm Saeed Ahmad.
 - 👨‍🎓 Completed Master's Degree in Artificial Intelligence from [Korea National University of Transportation](https://www.ut.ac.kr/english.do)
 - 💼 Worked as a Machine Learning Engineer at [DiveDeepAI](https://divedeep.ai/).
 - 👨‍🎓 Bachelor's Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
-- 📚 Bachelor of Computer and Information Science (2018-2022) 
 
-
-<p align="center"> 
-
-<a href="https://www.linkedin.com/in/saeedicp/">
-    <img src="https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</p>
 
 <!--
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
