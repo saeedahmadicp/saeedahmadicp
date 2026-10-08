@@ -7,7 +7,7 @@ I'm Saeed Ahmad.
 - 💼 Worked as a Machine Learning Engineer at [DiveDeepAI](https://divedeep.ai/).
 - 👨‍🎓 Bachelor's Graduate from [Pakistan Institute of Engineering and Applied Science](http://www.pieas.edu.pk/)
 - 📚 Bachelor of Computer and Information Science (2018-2022) 
-- 📚 Concentrations in Machine Learning and Computer Vision
+
 
 <p align="center"> 
 
@@ -16,8 +16,7 @@ I'm Saeed Ahmad.
 </a>
 </p>
 
----
-
+<!--
 <p align="center"> <b>🛠️ Languages and Tools </b></p>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -42,6 +41,8 @@ I'm Saeed Ahmad.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
 </div>
+-->
+
 <!--
 ---
 
